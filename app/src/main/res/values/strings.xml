@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Лента</string>
+    <string name="error_imageload">Ошибка в загрузке. Проверьте интернет</string>
+    <string name="title_search">Поиск</string>
+</resources>
